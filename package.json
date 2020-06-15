@@ -1,0 +1,25 @@
+{
+  "name": "@wauto/webpack-symlink-plugin",
+  "version": "1.0.0",
+  "description": "before webpack compile, create directory symlink.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "keywords": [
+    "symlink",
+    "webpack",
+    "plugin"
+  ],
+  "files": ["index.js", "README.md"],
+  "author": "wujingfei <wujf1@foxmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^8.0.1",
+    "webpack": "^4.43.0"
+  },
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "node-cmd": "^3.0.0"
+  }
+}
