@@ -1,6 +1,6 @@
 {
   "name": "@wauto/webpack-symlink-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "before webpack compile, create directory symlink.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,10 @@
     "webpack",
     "plugin"
   ],
-  "files": ["index.js", "README.md"],
+  "files": [
+    "index.js",
+    "README.md"
+  ],
   "author": "wujingfei <wujf1@foxmail.com>",
   "license": "MIT",
   "devDependencies": {
