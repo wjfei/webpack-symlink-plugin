@@ -4,13 +4,13 @@ before webpack compile, create directory symlink.
 # 📦 Install
 
 ```sh
-npm install @wauto/webpack-symlink-plugin
+npm install webpack-symlink-plugin
 ```
 
 # 🔨 Usage
 
 ```js
-const WebpackSymlinkPlugin = require("@wauto/webpack-symlink-plugin");
+const WebpackSymlinkPlugin = require("webpack-symlink-plugin");
 
 const webpackConfig = {
     plugins: [

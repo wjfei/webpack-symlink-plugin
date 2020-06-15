@@ -1,8 +1,3 @@
-/*
- * @Author: wujingfei 00718
- * @Date: 2020-06-15 10:49:40
- * @Description: Description
- */
 const fs = require("fs");
 const cmd = require("node-cmd");
 
