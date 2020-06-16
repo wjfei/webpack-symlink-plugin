@@ -1,6 +1,8 @@
 # webpack-symlink-plugin
 before webpack compile, create directory symlink.
 
+[![Build Status](https://www.travis-ci.org/wjfei/webpack-symlink-plugin.svg?branch=master)](https://www.travis-ci.org/wjfei/webpack-symlink-plugin)
+
 # 📦 Install
 
 ```sh
